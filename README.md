@@ -1,5 +1,8 @@
 # PlantCNN
 Detección de Enfermedades de Plantas con CNN
 
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
-![image](images/healthy.jpeg)
+<div style="display: flex;">
+  <img src="images/healthy.jpeg" alt="Healthy Plant 1" style="width: 200px; margin-right: 10px;" />
+  <img src="images/healthy.jpeg" alt="Healthy Plant 2" style="width: 200px; margin-right: 10px;" />
+  <img src="images/healthy.jpeg" alt="Healthy Plant 3" style="width: 200px;" />
+</div>
